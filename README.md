@@ -3,7 +3,7 @@
   <img src="book.svg" alt="Front-End Checklist" width="170">
   <br>
     <br>
-        <kdr> Guia de Javascript <kdr>
+        <kbd> Guia de Javascript <kbd>
   <br>
 </h1>
 
